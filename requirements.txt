@@ -1,0 +1,12 @@
+pandas
+numpy
+streamlit
+transformers
+torch
+huggingface_hub
+scikit-learn
+requests
+python-dotenv
+openai==0.28
+langchain
+langgraph
