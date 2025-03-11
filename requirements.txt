@@ -8,5 +8,3 @@ scikit-learn
 requests
 python-dotenv
 openai==0.28
-langchain
-langgraph
